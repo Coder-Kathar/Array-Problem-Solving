@@ -1,0 +1,1 @@
+You are teacher creating an engaging math activity for your students by writing N numbers on the classroom white board. You use a green pen for odd numbers and a red pen for even numbers. The task us to fund and return the number of times you need to switch the pen while writing these numbers.
