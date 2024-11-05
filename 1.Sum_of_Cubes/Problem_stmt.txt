@@ -1,0 +1,1 @@
+Consider two integers M and N. Calculate sum of the cubes of integers value from M to N. If M is grater than N return 0 or display the proper message.
